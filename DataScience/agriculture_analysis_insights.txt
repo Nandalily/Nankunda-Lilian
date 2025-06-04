@@ -1,0 +1,13 @@
+
+Key Insights:
+1. Fertilizer recommendations are most strongly influenced by: Fertilizer_Recommended(kg/ha), Soil_pH, Humidity(%)
+2. Wheat crops require the most soil moisture on average
+3. For crops experiencing temperatures above 30°C, recommended actions:
+   - Increase irrigation frequency
+   - Monitor soil moisture more frequently
+   - Consider shade solutions for heat-sensitive crops
+
+Recommendations:
+- Implement dynamic fertilizer adjustments based on Fertilizer_Recommended(kg/ha)
+- Group irrigation schedules by crop type and temperature ranges
+- Install additional sensors in Wheat fields for better monitoring
